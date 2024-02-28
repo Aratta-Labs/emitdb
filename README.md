@@ -7,7 +7,7 @@ Unlock the true potential of blockchain data with EverLog's cutting-edge tools p
 ![Prettier Badge](assets/badge-prettier.svg "Prettier")
 
 ### Workflow
-![Workflow](workflow.png "EverLog Workflow")
+![Workflow](assets/workflow.png "EverLog Workflow")
 
 ## Overview
 
