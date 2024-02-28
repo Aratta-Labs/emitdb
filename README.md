@@ -24,6 +24,7 @@ An indexer extracts transaction data from a blockchain node, transforms it into 
 - **Secure Storage:** Rest assured that your data is protected. EverLog leverages a robust database to ensure the safe and reliable storage of collected blockchain events.
 
 ### Deployed Contract (Testnet)
+A sample of an event in a contract:
 
 Sepolia Testnet: contract address `0x34e58A8dC9b869D47AC9EC043e280B5a4D598B76` [view on explorer](https://sepolia.etherscan.io/address/0x34e58a8dc9b869d47ac9ec043e280b5a4d598b76)
 
