@@ -12,29 +12,6 @@ const provider = "https://lb.drpc.org/ogrpc?network=sepolia&dkey=Ajg7BRbuiUBgmqS
 const web3Provider = new Web3.providers.HttpProvider(provider)
 const web3 = new Web3(web3Provider)
 
-const RPC_URL = [
-  {
-    id: 1,
-    name: "Ethereum Mainnet",
-    url: ["https://eth.llamarpc.com", "https://eth.meowrpc.com"],
-  },
-  {
-    id: 2,
-    name: "BNB Smart Chain",
-    url: ["https://bsc-dataseed.binance.org", "https://bsc-dataseed1.binance.org/", "https://bsc.meowrpc.com"],
-  },
-  {
-    id: 3,
-    name: "Avalanche Network C-Chain",
-    url: ["https://api.avax.network/ext/bc/C/rpc"],
-  },
-  {
-    id: 4,
-    name: "Polygon Mainnet",
-    url: ["https://polygon-bor.publicnode.com", "https://polygon.llamarpc.com"],
-  },
-]
-
 const ABI = [
   { inputs: [], stateMutability: "nonpayable", type: "constructor" },
   {
