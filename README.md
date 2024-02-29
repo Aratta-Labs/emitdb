@@ -23,6 +23,9 @@ An indexer extracts transaction data from a blockchain node, transforms it into 
 
 - **Secure Storage:** Rest assured that your data is protected. EverLog leverages a robust database to ensure the safe and reliable storage of collected blockchain events.
 
+### DB
+``eventbridge.sql`` is the DB, runned locally to store the event about Transfer for USD token ``0x7f11f79dea8ce904ed0249a23930f2e59b43a385`` - (120032 total, Query took 0.0103 seconds.)
+
 ### Deployed Contract (Testnet)
 A sample of an event in a contract:
 
