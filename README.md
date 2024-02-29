@@ -1,6 +1,6 @@
 ![Test Badge](assets/logo.svg "Test")
 
-Unlock the true potential of blockchain data with EverLog's cutting-edge tools powered by gRPC, and take your exploration to new heights beyond the limits of JSON RPC.
+Unlock the true potential of blockchain data with EverLog's cutting-edge tools powered by dRPC, and take your exploration to new heights beyond the limits of JSON RPC.
 
 <a href="//lukso.network">![dRPC Badge](assets/badge-drpc.svg "dRPC")</a>
 <a href="/test">![Test Badge](assets/badge-test.svg "Test")</a>
